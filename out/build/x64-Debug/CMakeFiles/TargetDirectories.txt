@@ -1,5 +1,0 @@
-C:/Users/Alpha PC/Desktop/repos/PhysicsEngine/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/Alpha PC/Desktop/repos/PhysicsEngine/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Alpha PC/Desktop/repos/PhysicsEngine/out/build/x64-Debug/PhysicsEngine/CMakeFiles/edit_cache.dir
-C:/Users/Alpha PC/Desktop/repos/PhysicsEngine/out/build/x64-Debug/PhysicsEngine/CMakeFiles/PhysicsEngine.dir
-C:/Users/Alpha PC/Desktop/repos/PhysicsEngine/out/build/x64-Debug/PhysicsEngine/CMakeFiles/rebuild_cache.dir

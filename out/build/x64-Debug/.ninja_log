@@ -1,9 +1,0 @@
-# ninja log v5
-2	187	7213184367153401	build.ninja	f68b47d2048f43fd
-1	614	7213184372365171	PhysicsEngine/CMakeFiles/PhysicsEngine.dir/PhysicsEngine.cpp.obj	67da1efec3dadea3
-615	1552	7213184380884550	PhysicsEngine/PhysicsEngine.exe	57f8a89ea652ed44
-0	717	7213184709113797	PhysicsEngine/CMakeFiles/PhysicsEngine.dir/PhysicsEngine.cpp.obj	67da1efec3dadea3
-1	442	7213185108050451	PhysicsEngine/CMakeFiles/PhysicsEngine.dir/PhysicsEngine.cpp.obj	67da1efec3dadea3
-443	769	7213185109884594	PhysicsEngine/PhysicsEngine.exe	57f8a89ea652ed44
-1	614	7213185439795633	PhysicsEngine/CMakeFiles/PhysicsEngine.dir/PhysicsEngine.cpp.obj	67da1efec3dadea3
-615	905	7213185441790545	PhysicsEngine/PhysicsEngine.exe	57f8a89ea652ed44
